@@ -1,0 +1,22 @@
+{
+    "compilerOptions": {
+        "target": "es2018",
+        "module": "esnext",
+        "moduleResolution": "node",
+        "noEmitOnError": true,
+        "strict": true,
+        "esModuleInterop": false,
+        "allowSyntheticDefaultImports": true,
+        "experimentalDecorators": true,
+        "importHelpers": true,
+        "outDir": "dist",
+        "sourceMap": true,
+        "inlineSources": true,
+        "strictPropertyInitialization": false,
+        "rootDir": "./",
+        "useDefineForClassFields": false,
+    },
+    "include": [
+        "**/*.ts"
+    ]
+}
